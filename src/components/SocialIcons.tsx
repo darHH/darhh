@@ -32,10 +32,10 @@ function SocialIcons() {
           />
         </a>
       </div>
-      <div className="flex gap-14 pl-6">
-        <p className="pl-3">Github</p>
+      <div className="flex gap-10 pl-6">
+        <p className="pl-2">Github</p>
         <p>LinkedIn</p>
-        <p className="pl-1">Email</p>
+        <p className="pl-2">Email</p>
       </div>
     </div>
   );

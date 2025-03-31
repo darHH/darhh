@@ -3,7 +3,7 @@ import SocialIcons from "../components/SocialIcons";
 export default function Home() {
   return (
     <div className="h-screen flex items-center justify-center text-center">
-      <div className="p-8 flex flex-col gap-2 items-center">
+      <div className="p-8 flex flex-col gap-2 items-center text-xl">
         <p className="mb-4">
           Hey there! Darren here, thanks for stopping by!{" "}
         </p>
