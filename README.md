@@ -5,11 +5,12 @@
 ### Hey there,
 I'm Darren, a penultimate Computer Science student at the **National University of Singapore (NUS)** and a passionate full-stack developer.
 
+- 🚀 I founded and led [The Meeples](https://x.com/meeplesmetro), a Web3 NFT project where I managed a cross-functional team and built a community of over 1,000 members.
 - 💼 I previously worked as a Developer at **Fisher8 Capital**, where I built and shipped projects such as the [Nemesis Esports Website](https://nmss.gg/).
-- 🌱 In my free time, I enjoy caring for houseplants. You can see my collection and even shop at [Darplants](https://www.darplants.com/).
+- 🌱 In my free time, I enjoy caring for and selling my houseplants at [Darplants](https://www.darplants.com/).
 - 🚀 You can learn more about me at [darhh.com](https://www.darhh.com/).
 
-### A collection of the tools and technologies I worked with,
+### A collection of the tools and technologies I worked with
 
 **Languages**
 <p align="left">
@@ -55,7 +56,7 @@ I'm Darren, a penultimate Computer Science student at the **National University 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36"/></a>
 </p>
 
-### Always happy to connect at,
+### Always happy to connect at
 <p align="left">
   <a href="www.linkedin.com/in/darhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren teo" height="30" width="40" /></a>
 </p>
