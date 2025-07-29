@@ -8,7 +8,7 @@ I'm Darren, a penultimate Computer Science student at the National University of
 - 🚀 I founded and led [The Meeples](https://x.com/meeplesmetro), a Web3 NFT project where I managed a cross-functional team and built a community of over 1,000 members.
 - 👨‍💻 I previously worked as a Developer at **Fisher8 Capital**, where I built and shipped end-to-end projects such as the [Nemesis Esports Website](https://nmss.gg/).
 - 🌱 In my free time, I enjoy caring for and selling my houseplants at [Darplants](https://www.darplants.com/).
-- 😁 You can learn more about me at [darhh.com](https://www.darhh.com/) and reach me on my [LinknedIn](www.linkedin.com/in/darhh)
+- 😁 You can learn more about me at [darhh.com](https://www.darhh.com/) and reach out to me on my [LinkedIn](www.linkedin.com/in/darhh)
 
 ### A collection of the tools and technologies I worked with
 
