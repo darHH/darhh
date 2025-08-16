@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 
 function SocialIcons() {
@@ -23,19 +24,20 @@ function SocialIcons() {
             className="w-24 mr-6"
           />
         </Link>
-        <a href="mailto:darrenteo77@gmail.com">
-          <DotLottieReact
-            src="/lotties/Email.lottie"
-            loop
-            autoplay
-            className="w-20"
+        <Link href="https://www.darplants.com/">
+          <Image
+            src="/darplants_logo.jpg"
+            alt="Darplants Logo"
+            width="36"
+            height="36"
+            className="ml-10"          
           />
-        </a>
+        </Link>
       </div>
       <div className="flex gap-10 pl-6">
         <p className="pl-2">Github</p>
         <p>LinkedIn</p>
-        <p className="pl-2">Email</p>
+        <p className="pl-2">Darplants</p>
       </div>
     </div>
   );
