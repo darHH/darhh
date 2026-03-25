@@ -6,7 +6,7 @@
 I'm Darren, a penultimate Computer Science student at the National University of Singapore (NUS) specializing in **Software Engineering** and **Database Systems**, with experience in **full-stack web and app development**.
 
 - 🚀 I founded and led [The Meeples](https://x.com/meeplesmetro), a Web3 NFT project where I managed a cross-functional team and built a community of over 1,000 members.
-- 👨‍💻 I previously worked as a Developer at **Fisher8 Capital**, where I built and shipped end-to-end projects such as the [Nemesis Esports Website](https://nmss.gg/).
+- 👨‍💻 I previously worked as a Software Dev at **GovTech's GovWallet team** and **Fisher8 Capital**, where I build, test, ship and maintain end-to-end projects.
 - 🌱 In my free time, I enjoy caring for and selling my houseplants at [Darplants](https://www.darplants.com/).
 - 😁 You can learn more about me at [darhh.com](https://www.darhh.com/) and reach out to me on my [LinkedIn](www.linkedin.com/in/darhh)
 
