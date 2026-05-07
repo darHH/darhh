@@ -86,6 +86,3 @@ I'm Darren, a final year cs student at the National University of Singapore (NUS
     />
   </a>
 </p>
-
----
-``
