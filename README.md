@@ -57,6 +57,7 @@ I'm Darren, a final year cs student at the National University of Singapore (NUS
 <table>
   <tr>
     <td><a href="https://github.com/features/actions"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="36" height="36"/></a></td>
+    <td><a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36" height="36"/></a></td>
     <td><a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="36" height="36"/></a></td>
     <td><a href="https://www.cloudflare.com/"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="36" height="36"/></a></td>
   </tr>
