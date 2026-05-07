@@ -22,7 +22,7 @@ I'm Darren, a penultimate Computer Science student at the National University of
 </p>
 
 **Frontend Development**
-<p align="left">
+<p align="left" style="display:flex; gap:10px; flex-wrap:nowrap; align-items:center;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="36" height="36"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="36" height="36"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/></a>
@@ -34,7 +34,7 @@ I'm Darren, a penultimate Computer Science student at the National University of
 </p>
 
 **Backend & Databases**
-<p align="left">
+<p align="left" style="display:flex; gap:10px; flex-wrap:nowrap; align-items:center;">
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="36" height="36"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="36" height="36"/></a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="36" height="36"/></a>
@@ -43,14 +43,14 @@ I'm Darren, a penultimate Computer Science student at the National University of
 </p>
 
 **DevOps & Deployment**
-<p align="left">
+<p align="left" style="display:flex; gap:10px; flex-wrap:nowrap; align-items:center;">
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="36" height="36"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="36" height="36"/></a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="36" height="36"/></a>
 </p>
 
 **Tools, Libraries & Design**
-<p align="left">
+<p align="left" style="display:flex; gap:10px; flex-wrap:nowrap; align-items:center;">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="36" height="36"/></a>
   <a href="https://auth0.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="Auth0" width="36" height="36"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36"/></a>
