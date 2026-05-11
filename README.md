@@ -2,11 +2,11 @@
   <img src="https://github.com/darHH/darhh/blob/335df7a483766c1eb1fbb3ddc56d9ef90d1417d0/LinkedinCoverImage.png" alt="Banner"/>
 </div>
 
-### Hey there,
+### Darren Teo Hee Hong
 
-I'm Darren, a final year cs student at the National University of Singapore (NUS) specializing in **Software Engineering** and **Database Systems**, with experience in **full-stack web development**.
+Full-stack software engineer with 1+ years of experience building production web apps and APIs serving nation-wide public users and global customers, passionate about optimizing technology for business needs and navigating engineering trade-offs.
 
-- 🚀 I founded and led [The Meeples](https://x.com/meeplesmetro), a Web3 NFT project where I managed a cross-functional team and built a community of over 1,000 members.
+- 🚀 I found and led [The Meeples](https://x.com/meeplesmetro), a Web3 NFT project where I managed a cross-functional team and built a community of over 1,000 members.
 - 👨‍💻 I previously worked as a Software Developer at **GovTech's GovWallet team** and **Fisher8 Capital**, where I built, tested, shipped, and maintained end-to-end projects.
 - 🌱 In my free time, I enjoy caring for and selling my houseplants at [Darplants](https://www.darplants.com/).
 - 😁 You can learn more about me at [darhh.com](https://www.darhh.com/) and connect with me on [LinkedIn](https://www.linkedin.com/in/darhh).
