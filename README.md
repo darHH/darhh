@@ -3,6 +3,7 @@
 </div>
 
 ### Darren Teo Hee Hong
+#### B.Comp. (Hons) in Computer Science at NUS Specializing in Software Engineering and Database Systems
 
 Full-stack software engineer with 1+ years of experience building production web apps and APIs serving nation-wide public users and global customers, passionate about optimizing technology for business needs and navigating engineering trade-offs.
 
